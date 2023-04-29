@@ -1,11 +1,11 @@
-let m=23;
-let conunt=0;
-for(let i=0;i<=m;i++0){
-if(m%i==0){
-count++;
+ // check prime code
+// Intentionally write wronge code
+let num = 10;
+for(let i=1; i<num;i++){
+if(num%2==0){
+console.log("Yes Prime")
 }
+else{
+console.log("Not Prime")
 }
-if(count==2){
-console.log("prime");
-}
-console.log(noy prime")
+ 
