@@ -1,4 +1,4 @@
-// check prime code
+ // check prime code
 // Intentionally write wronge code
 let num = 10;
 for(let i=1; i<num;i++){
@@ -8,3 +8,4 @@ console.log("Yes Prime")
 else{
 console.log("Not Prime")
 }
+ 
